@@ -103,14 +103,6 @@ Options
 | max              | integer      | 100                                                                                                   | Max value (end value), only integer                                                          |
 | dynamicOptions   | boolean      | false                                                                                                 | Dynamic change options (`true` or `false`)                                                   |
 
-Contributing
--------
-
-1. Fork the repo
-2. Install dependencies: `npm install` and `bower install`
-3. Run: `grunt`
-4. Make your changes
-5. Submit pull request
 
 License
 -------
